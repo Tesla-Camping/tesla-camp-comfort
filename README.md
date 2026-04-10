@@ -1,6 +1,8 @@
-# Auto Camp Mode Temp Shift
+# Tesla Camp Comfort V1 (README)
 
 An Apple Shortcut that automatically adjusts your Tesla's cabin temperature while camping, responding to outside temperature changes throughout the day. Powered by the [Tessie API](https://developer.tessie.com).
+
+Download the shortcut here: [Tesla Camp Comfort v1](https://www.icloud.com/shortcuts/163352d2b0c64331b0bdac85ba1ea94e)
 
 ---
 
