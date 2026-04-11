@@ -190,7 +190,7 @@ A colon or space between the two numbers is required.
 
 ## Wi-Fi Gate
 
-The Wi-Fi gate is an optional safety feature that prevents the shortcut from making unnecessary API calls when you're not in or near your vehicle.
+The Wi-Fi gate is an optional feature that prevents the shortcut from making unnecessary API calls when you're not in or near your vehicle.
 
 This was designed for setups where the vehicle has its own always-on Wi-Fi source, like a Starlink unit. If your phone is connected to the Starlink network, you're likely in or near the car — so it's appropriate to check Camp Mode. If your phone is connected to a different network (like your home Wi-Fi or a coffee shop), you're clearly away from the vehicle and there's no reason to make API calls.
 
