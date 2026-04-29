@@ -1,6 +1,6 @@
 # Tesla Camp Comfort V1 (README)
 
-An Apple Shortcut that automatically adjusts your Tesla's cabin temperature while camping, responding to outside temperature changes throughout the day. Powered by the [Tessie API](https://developer.tessie.com).
+An Apple Shortcut that automatically adjusts your Tesla's cabin temperature while camping, responding to outside temperature changes throughout the day. Powered by the [Tessie API](http://share.tessie.com/cj00fYEccCb).
 
 Download the shortcut here: [Tesla Camp Comfort V1.0.1](https://www.icloud.com/shortcuts/4eca3da6aa1e4160bfef5bd632d289d5)
 
