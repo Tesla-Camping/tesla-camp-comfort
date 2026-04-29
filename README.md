@@ -32,7 +32,7 @@ Each tier fires at most once per day. The shortcut resets automatically at midni
 
 **You'll need:**
 - A Tesla with Camp Mode capability
-- A [Tessie](https://tessie.com) account and API key
+- A [Tessie]([https://tessie.com](http://share.tessie.com/cj00fYEccCb)) account and API key
 - An iPhone or iPad (to run the shortcut via automations)
 
 **Setup:**
